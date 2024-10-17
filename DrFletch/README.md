@@ -4,6 +4,8 @@ DrFletchMaths is a Chrome Extension that provides an answer to any questions on 
 
 ## Installation
 
-1. Go to chrome://extensions/ and turn on "Developer Mode" in the top right corner.
-2. Click on "Load Unpacked" and select the folder that you just unzipped.
-3. You are done! You can now use DrCheat on any DrFrostMaths.com question.
+1. Download the code from here. Click on the green button that says "code" and then click on "Download ZIP".
+2. Unzip file
+3. Go to chrome://extensions/ and turn on "Developer Mode" in the top right corner.
+4. Click on "Load Unpacked" and select the folder that you just unzipped.
+5. You are done! You can now use DrFletchMaths on any DrFrostMaths.com question.
